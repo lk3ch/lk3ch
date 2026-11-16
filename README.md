@@ -10,10 +10,6 @@ https://codeberg.org/lk3ch
 
 Social media
 
-[Mastodon](https://mastodon.social/@lk3)
+- [Mastodon](https://mastodon.social/@lk3)
+- [LinkedIn](https://www.linkedin.com/in/lukaswuergler)
 
-https://mastodon.social/@lk3
-
-[LinkedIn](https://www.linkedin.com/in/lukaswuergler)
-
-https://www.linkedin.com/in/lukaswuergler
